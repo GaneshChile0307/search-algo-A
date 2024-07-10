@@ -19,4 +19,4 @@ setuptools==52.0.0.post20210125
 six==1.15.0
 wcwidth==0.2.5
 wheel==0.36.2
-zipp==3.4.1
+zipp==3.19.1
